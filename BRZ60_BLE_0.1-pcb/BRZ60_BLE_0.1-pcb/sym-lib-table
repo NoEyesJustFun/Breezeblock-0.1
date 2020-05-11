@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Adafruit_FeatherWing-cache)(type Legacy)(uri "/Users/burso/Desktop/KiCad Projects/KB_Library/Adafruit_FeatherWing/Adafruit_FeatherWing-cache.lib")(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri "/Users/burso/Desktop/KiCad Projects/KB_Library/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name mkl27z256vfm4)(type Legacy)(uri "/Users/burso/Desktop/KiCad Projects/KB_Library/kicad_lib_tmk-master/mkl27z256vfm4.lib")(options "")(descr ""))
+  (lib (name SparkFun-Boards)(type Legacy)(uri "/Users/burso/Desktop/KiCad Projects/KB_Library/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-Boards.lib")(options "")(descr ""))
+  (lib (name BRZ60_BLE_0.1-rescue)(type Legacy)(uri ${KIPRJMOD}/BRZ60_BLE_0.1-rescue.lib)(options "")(descr ""))
+)
